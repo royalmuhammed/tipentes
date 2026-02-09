@@ -1,6 +1,6 @@
-# 🛡️ LogicBreaker: AI-Powered Business Logic Scanner
+# 🛡️ TIPENTES: AI-Powered Business Logic Scanner
 
-> **Google Gemini Developer Competition 2026 Entry**
+
 > *Automated Red Teaming using Multimodal AI Analysis*
 
 ## 💡 The Problem
