@@ -1,0 +1,7 @@
+streamlit
+google-genai
+pandas
+python-multipart
+graphviz
+plotly
+watchdog

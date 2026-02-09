@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-02-10 00:16:06",
+    "user": "JUDGE",
+    "action": "LOGIN_SUCCESS",
+    "details": "Role: user"
+  },
+  {
+    "timestamp": "2026-02-10 00:16:30",
+    "user": "JUDGE",
+    "action": "SCAN_INITIATED",
+    "details": "Video: recording_2026-02-09_15.08.57.mp4, HAR: demo.owasp-juice.shop.har"
+  },
+  {
+    "timestamp": "2026-02-10 00:16:56",
+    "user": "JUDGE",
+    "action": "SCAN_INITIATED",
+    "details": "Video: recording_2026-02-09_15.08.57.mp4, HAR: demo.owasp-juice.shop.har"
+  },
+  {
+    "timestamp": "2026-02-10 00:19:05",
+    "user": "JUDGE",
+    "action": "LOGIN_SUCCESS",
+    "details": ""
+  },
+  {
+    "timestamp": "2026-02-10 00:20:16",
+    "user": "JUDGE",
+    "action": "LOGOUT",
+    "details": ""
+  }
+]
